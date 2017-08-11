@@ -1,0 +1,62 @@
+/*
+	Plugin Name: AstrizStudios - Profanity Blocker
+	Version: 1.0
+	Author: AstrizStudios
+	Author URI: http://astrizstudios.com
+	License: GPL2
+	Description: Profanity Blocker is a live, scanning system of profane (swearing/abusive) words and their synonyms under your control.
+	File Info: Styles used on the administration side.
+	Plugin URI: http://profanity-blocker.com/plugins/wordpress/
+*/
+#astrizstudios_pro_block_plugginLogo
+{
+	width:270px;
+	height:130px;
+}
+
+.line_break
+{
+	width:50%;
+}
+
+#astrizstudios_pro_block_server_access
+{
+	margin-top: 20px;
+}
+
+.new_row
+{
+	clear:both;
+}
+
+#astrizstudios_pro_block_server_access label, #astrizstudios_pro_block_fitler_areas label, #astrizstudios_pro_block_info label
+{
+	display: block;
+}
+#astrizstudios_pro_block_server_access span, #astrizstudios_pro_block_fitler_areas span, #astrizstudios_pro_block_info span
+{
+	margin-left: 20px;
+	display:inline-block;
+	color: #999;
+}
+
+.tabIdent20
+{
+	margin-left:20px;
+}
+
+.astrizstudios_left30
+{
+	foat:left;
+	width: 30%;
+	line-height: 30px;
+}
+	.astrizstudios_left30 b
+	{
+		margin-left: 40px;
+	}
+	.astrizstudios_left30 input, .astrizstudios_left30 button
+	{
+		float:right;
+		margin-right: 50px;
+	}
